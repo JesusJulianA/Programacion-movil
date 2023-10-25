@@ -1,6 +1,6 @@
 import React from "react";
 import { Text } from "react-native";
-import { commonStyles } from '../Atoms/styles.jsx';
+import { commonStyles } from './Styles.js';
 
 export default function StyledText ({align, children, color, fontSize, fontWeight, style, ...restOfProps}) {
     const textStyle = [

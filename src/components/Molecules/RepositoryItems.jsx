@@ -5,7 +5,6 @@ import RepositoryStats from './RepositoryStats.jsx'
 import { repositoryItemStyles } from '../Atoms/styles.jsx'
 
 
-
 const RepositoryItemHeader = ({ ownerAvatarUrl, fullName, description, Language }) => (
   <View style={{ flexDirection: 'row', paddingBottom: 2 }}>
       <View style={{ paddingRight: 10 }}>
