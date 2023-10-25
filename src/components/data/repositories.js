@@ -50,5 +50,26 @@ export default[
     ratingAverage: 0,
     reviewCount: 0,
     ownerAvatarUrl: 'https://avatars3.githubusercontent.com/u/13142323?v=4'
-} 
+},
+{
+    id: 'Laravel.Laravel',
+    fullName: 'Laravel',
+    description: 'Laravel is a free, open-source PHP web framework used for web application development.',
+    Language: 'PHP',
+    forksCount: 2350,
+    stargazersCount: 17800,
+    ratingAverage: 4.8,
+    reviewCount: 420,
+    ownerAvatarUrl: 'https://logospng.org/download/laravel/logo-laravel-icon-1024.png'
+},
+{
+    fullName: 'Vue.js',
+    description: 'Vue.js is a progressive JavaScript framework for building user interfaces.',
+    Language: 'JavaScript',
+    forksCount: 3200,
+    stargazersCount: 21500,
+    ratingAverage: 4.9,
+    reviewCount: 600,
+    ownerAvatarUrl: 'https://mochikit.com/wp-content/uploads/2019/01/vue-js.jpg'
+}
 ]
