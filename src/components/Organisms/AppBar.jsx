@@ -1,7 +1,7 @@
 import React from 'react';
 import  {View } from 'react-native';
 import StyledText from '../Atoms/StyledText.jsx';
-import { appBarStyles } from '../Atoms/styles.jsx';
+import { appBarStyles } from '../Atoms/Styles.js';
 
 
 const AppBar = () => {
