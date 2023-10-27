@@ -2,7 +2,8 @@ import React from 'react'
 import { Image, View } from 'react-native'
 import StyledText from '../Atoms/StyledText.jsx'
 import RepositoryStats from './RepositoryStats.jsx'
-import { repositoryItemStyles } from '../Atoms/styles.jsx'
+import { repositoryItemStyles } from '../Atoms/Styles.js'
+
 
 
 const RepositoryItemHeader = ({ ownerAvatarUrl, fullName, description, Language }) => (
